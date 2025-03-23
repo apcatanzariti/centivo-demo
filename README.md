@@ -1,2 +1,2 @@
 # centivo-demo
-Demo for Centivo
+Welcome to the demo for Centivo
