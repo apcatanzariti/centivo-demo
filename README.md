@@ -2,8 +2,8 @@
 Thanks for taking the time to check out this demo.
 
 # Endpoints
-/ - displays Hello World
-/users - returns all users in the database
+/ - displays Hello World  
+/users - returns all users in the database  
 /users/:id - returns user with matching id if they are over 21 years old
 
 # Approach
